@@ -6,4 +6,6 @@ public class LogCall {
     
     // This line is from GitHub
     
+    // This line from my mind
+    
 }
